@@ -1,0 +1,5 @@
+﻿4 4
+t t  t  t
+t p0 p3 t
+t p1 t  t
+t t  t  x
